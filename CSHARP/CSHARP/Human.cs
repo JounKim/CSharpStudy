@@ -50,7 +50,7 @@ namespace c샵책예제
 
             Console.WriteLine("name {0}, age: {1}, height: {2}", Player.name, Player.age, Player.height);
 
-
+            
         }
     }
 }
